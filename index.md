@@ -7,11 +7,11 @@
 - [👋 Hi, I'm Mikey Nguyen](#-hi-im-mikey-nguyen)
   - [Section Links](#section-links)
   - [Relative Links](#relative-links)
-  - [🧑‍💻 About Me](#-about-me)
-  - [🚀 As a Programmer](#-as-a-programmer)
+  - [About Me](#about-me)
+  - [As a Programmer](#as-a-programmer)
     - [Current Interests](#current-interests)
-  - [🌱 As a Person](#-as-a-person)
-  - [🧠 Favorite Code Snippet](#-favorite-code-snippet)
+  - [As a Person](#as-a-person)
+  - [Favorite Code Snippet](#favorite-code-snippet)
   - [My Links](#my-links)
   - [To Do List](#to-do-list)
   - [Goals](#goals)
@@ -26,23 +26,23 @@
 ---
 
 <a id="about-me"></a>
-## 🧑‍💻 About Me
+## About Me
 Hi! I'm a Computer Science student at UC San Diego who’s interested in building technology that feels **human, meaningful, and impactful**.
 
 I enjoy working on projects that combine:
-- 💡 Creativity
-- 🤖 Technology
-- ❤️ Real human needs
+- Creativity
+- Technology
+- Real human needs
 
 > "I don’t just want to build software, I want to build things that matter."
 
 ---
 
 <a id="as-a-programmer"></a>
-## 🚀 As a Programmer
-- 💻 Languages: Java, Python, C++, JavaScript, TypeScript  
-- ⚛️ Frameworks: React, Next.js, Express, Node.js
-- 🔧 Tools: APIs, AI Agents
+## As a Programmer
+- Languages: Java, Python, C++, JavaScript, TypeScript  
+- Frameworks: React, Next.js, Express, Node.js
+- Tools: APIs, AI Agents
 
 <a id="current-interests"></a>
 ### Current Interests
@@ -53,7 +53,7 @@ I enjoy working on projects that combine:
 ---
 
 <a id="as-a-person"></a>
-## 🌱 As a Person
+## As a Person
 Outside of coding, I care deeply about:
 - Family and cultural connection  
 - Exploring the map 
@@ -62,7 +62,7 @@ Outside of coding, I care deeply about:
 ---
 
 <a id="favorite-code-snippet"></a>
-## 🧠 Favorite Code Snippet
+## Favorite Code Snippet
 
 > Here's a simple example of Python recursion:
 
